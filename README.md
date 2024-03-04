@@ -9,6 +9,6 @@
 
 Для вёрстки UI использовал вспомогательный фреймворк SnapKit.
 
-## Application work example:
+## Пример работы:
 ![DE73D7F9-CB09-4F9D-B928-1201F0EEC471](https://github.com/bykhoda/OmgTestApp/assets/127774028/3842a311-4402-4e65-b735-e3b7ef34e251)
 ______
